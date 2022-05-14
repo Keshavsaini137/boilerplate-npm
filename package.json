@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Jane Doe",
+	"author": "Keshav Saini",
 	"description": "A nodejs test project.",
 	"version": "0.0.1",
 	"keywords": ["nodeejs","test nodejs", "node"],
