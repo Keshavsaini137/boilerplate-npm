@@ -1,8 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"auther":"Keshav Saini",
+	"author":"Keshav Saini",
+	"description": "A nodejs test project.",
+	"version": "0.0.1",
+	"keywords": ["nodeejs","test nodejs", "node"],
+	"license": "MIT",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "^2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
